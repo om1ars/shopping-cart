@@ -1,0 +1,1 @@
+export const AppReducer = x (state, action) {}

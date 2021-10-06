@@ -1,0 +1,42 @@
+.filter {
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin: 10px;
+    height: 100vh;
+}
+.filter > span {
+    padding-bottom: 20px;
+}
+.title {
+    font-size: 30px;
+}
+.home {
+    display: flex;
+    
+}
+.productContainer {
+    display: flex;
+    width: 70%;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: space-between;
+}
+.products {
+    width: 30%;
+    margin: 10px;
+}
+.cartItem {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    margin: 10px 0;
+}
+.cartItem > img {
+    border-radius: 50%;
+    width: 50px;
+    
+}
